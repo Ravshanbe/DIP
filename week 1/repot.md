@@ -1,0 +1,1 @@
+In this week, I practiced how to open images, changing their color type and setting threshold for making it binary colored image.
